@@ -125,8 +125,8 @@ $ git clone https://github.com/cleyton1986/rocketseat-ignite-elixir-desafio03-ge
 # Entre no diretório
 $ cd rocketseat-ignite-elixir-desafio03-generating-report
 
-# entre na pasta
-$ cd list_filter
+# baixe as dependenecias
+$ mix deps.get
 
 # para compilar o projeto, execute o comando
 $ mix compile
