@@ -40,6 +40,8 @@
 
 - [Elixir](https://elixir-lang.org/install.html)
 
+</br>
+
 ## Sobre o desafio
 
 Nesse desafio, você deverá gerar um relatório a partir de um arquivo `.csv`.
@@ -84,10 +86,15 @@ O relatório gerado a partir do arquivo (que está disponível para download log
 
 Os caracteres ... é o espaço onde ficaria o resto dos dados. Esse é apenas um exemplo visual do que o retorno da função deve possuir, beleza?
 
+</br>
+
 ##  Download do arquivo
 (
   <a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/070dd69a-c358-46cf-bc53-b2c5e79c9346/gen_report.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221008%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221008T000010Z&X-Amz-Expires=86400&X-Amz-Signature=06a8acfc189ef3bcb872672ff672bca25498b006b7952284bb866cc1ad6f53bd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22gen_report.csv%22&x-id=GetObject">🔗 gen_report.csv </a>
 ) 🚀
+
+
+</br>
 
 ## Específicação dos testes
 
@@ -105,16 +112,28 @@ Para esse desafio, temos os seguintes testes:
 
 
 ### Você deve cumprir para que o teste passe.
+</br>
 
 ## :calendar: Entrega
 
 Esse desafio foi entregue na plataforma Skylab - Rocketseat.
+</br>
 
 <p align="center">
   <img  src="./assets/test-result.png">
 </p>
 
 ## Instalação e execução
+</br>
+
+
+### Configuração do ambiente:
+<p>
+  💿 (
+    <a href="https://www.notion.so/Ambiente-de-desenvolvimento-Trilha-Elixir-aa2399b4ec17447582d04cbce8ffa12f">Guia de instalação e configuração do Ambiente - Elixir </a>
+  )
+</p>
+</br>
 
 ```bash
 # OBS.: ANTES DE PROCEDIMENTO, CERTIFIQUE-SE QUE O ELIXIR ESTEJA INSTALADO NO SEU COMPUTADOR CORRETAMENTE.
